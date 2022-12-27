@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prak 13</string>
+    <string name="Nums_list">Список контактов</string>
+
+    <string name="Input">Ввод данных</string>
+    <string name="Output">Вывод данных</string>
+    <string name="Date">Дата</string>
+    <string name="Name">Имя</string>
+    <string name="Number">Номер</string>
+    <string name="Add">Добавить</string>
+    <string name="Num">Номера</string>
+    <string name="Change">Изменить</string>
+    <string name="AddGroup">Добавить группу</string>
+    <string name="AddingAGroup">Добавление группы</string>
+    <string name="Group">Группа</string>
+    <string name="Delete">Удалить</string>
+</resources>
